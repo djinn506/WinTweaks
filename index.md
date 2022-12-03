@@ -1,22 +1,11 @@
 
-# W10
+# W10 #
 
-# Blaine the monkey
+# Blaine the monkey #
 
-May 21, 2021(check back for updates!)
-Dec 02, 2022(switch to markdown and github)
+###### May 21, 2021(check back for updates!) ######
 
--START-
-Windows Bloat
-Art Apps Tweaks(to be updated..)
-NVIDIA
-MSI
-Internet
-OneDrive and Services
-Power Settings
-Research Links
-Downloads
-Addendum
+###### Dec 02, 2022(switch to markdown and github) ######
 
 Todo: expand on some options and aero tweaker options. Fix Markdown styles.
 
@@ -28,7 +17,20 @@ If you read this and still need more assistance, here’s FR33THY’s playlist o
 <https://www.youtube.com/watch?v=PYNlVUyaW0U&list=PLykpkrQ1xVu1jTFCju1cmY9UAHw99aGWW>
 There are a lot more tweaks listed here but that’ll give you a clue of where and how to approach these edits.
 
--START-
+
+
+- Windows Bloat
+- Art Apps Tweaks(to be updated..)
+- NVIDIA
+- MSI
+- Internet
+- OneDrive and Services
+- Power Settings
+- Research Links
+- Downloads
+- Addendum
+
+## -START- ##
 
 - Disable fast boot on BIOS.
 - Disable Network Throttling(disregard for notebooks) “HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile”=dword:NetworkThrottlingIndex hex:ffffffff
@@ -108,19 +110,19 @@ Art Apps Tweaks(to be updated..)
  C:\Users\j\AppData\Roaming\Adobe\Adobe Photoshop CC\Adobe Photoshop CC Settings
  New txt file “PSUserConfig.txt”:
 
-# Use WinTab
+#### Use WinTab ####
 
 UseSystemStylus 0
 
-# Use Legacy Healing Brush
+#### Use Legacy Healing Brush ####
 
 LegacyHealingBrush 1
 
-# Disable Scratch Compression for fast HDD
+#### Disable Scratch Compression for fast HDD ####
 
 VMCompressionPages 0
 
-# Use Overscrolling
+#### Use Overscrolling ####
 
 OverscrollingAlways 2
 
