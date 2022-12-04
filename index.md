@@ -1,8 +1,7 @@
 
-# W10 Blaine the monkey #
+# W10 Blaine the monkey
 
-Performance Tweaks for Windows 10 // 
-contact: <https://www.djinn506.twitter.com/>
+Performance Tweaks for Windows 10 // contact: <https://www.djinn506.twitter.com/>
 
 ###### Dec 02, 2022(switched to markdown and github pages) ######
 ###### Todo: expand on some options and aero tweaker options. Fix Markdown styles ######
@@ -27,7 +26,7 @@ contact: <https://www.djinn506.twitter.com/>
 
 Use at your own risk, this is just a tweaking blueprint and you need to know your way around windows. This isn’t a step to step guide, the point is just to send you on your way to squeeze the most out of your system, just cutting down on unneeded junk. Only thing that may differ between people using this on their pc is just programming tools that might need some dependencies and people using specific server protocols, etc (That being said most of these changes aren’t destructive) First make a system restore point for each of the big changes here just in case it breaks something or you don’t like the change for some reason so you can always roll back to a previous state of your system. This is a personal list, what works for me on my system so you may have to tweak some things further. I’m also skipping some things that are common like don’t run a bunch of extensions in your browser.
 Only reason I made this was to keep track of my own edits for sanity sake.. Luckily this can live on the internet free to be browsed and easy to check back, edit and save as a pdf. There’s lots to do as soon as you format the PC and this is a healthy reminder of what to do right after, so I’m not scrounging the internet to get my sweet performance back. Most of the edits here are ripped from FR33THY so check him out if you’re interested in more.(Ross from Freeman’s Mind pointed me in the right direction)
-Enjoy this humble bundle of computer magic, and feel free to share it around! (Oh, and let me know if there’s other edits I missed.)
+Enjoy this humble bundle of computer magic, and feel free to share it around! (Oh, and let me know if there’s other edits I missed or you wanna contribute/help make it better.)
 
 If you read this and still need more assistance, here’s FR33THY’s playlist on tweaking windows 10
 <https://www.youtube.com/watch?v=PYNlVUyaW0U&list=PLykpkrQ1xVu1jTFCju1cmY9UAHw99aGWW>
