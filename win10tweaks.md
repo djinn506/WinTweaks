@@ -41,7 +41,7 @@ There are a lot more tweaks listed here but that’ll give you a clue of where a
 - Open Device Manager and Disable unused devices to cut down on latency {On restart W10 will reinstall basic drivers.}
 - Disable visual effects on windows / only thumbnails and smooth system fonts(**Optional**)
 - Disable unneeded services manually // using msconfig > services.(ie: windows biometrics)
-- **Optional** Use Avast and MalwareBytes(both lite-ish) / or just BitDefender cause it’s lighter. <https://www.bitdefender.com/>
+- **Optional** Use MalwareBytes
 - **Optional** Image Visualizer set to JPGview // also install on c:/programs for convenience. <https://sourceforge.net/projects/jpegview/>
 - **Optional** Ublock origins (adblock browser extension) settings: add regional filters(on my filters), set to automatically disable javascript, block remote fonts(huge perf boost).
 - **Optional** Browser Performance Disable Hardware Acceleration when Available.(makes browsers take up less resources and be more stable) This will also disable rendering 3D graphics on the browser.
@@ -272,7 +272,7 @@ Windows Registry Editor Version 5.00
 ; Disable power throttling
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerThrottling]
 "PowerThrottlingOff"=dword:00000001
-; Disable spectre and meltdown
+; Optional: Disable spectre and meltdown (Do NOT disable cpu mitigations if you're connected to the internet)
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
 "FeatureSettingsOverride"=dword:00000003
 "FeatureSettingsOverrideMask"=dword:00000003
